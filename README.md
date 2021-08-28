@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Achary</h1>
 <h3 align="center">Data Science Enthusiast</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1780804/screenshots/14500043/media/d59c53364a76b16ab7bfeb68c06b90ea.gif"></img>
 - 📫 How to reach me **varunachary96@gmail.com**
 
 - ⚡ Hobby **Playing & Watching Football**
